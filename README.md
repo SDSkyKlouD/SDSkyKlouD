@@ -26,8 +26,8 @@ W.I.P.
 Links 🔗
 -----
   - Homepage [SD SkyKlouD](https://sdsk.one) / [Sorakumo](https://srkm.work)
-  - Twitter [SD SkyKlouD](https://twitter.com/_SDSkyKlouD) / [Sorakumo](https://twitter.com/sd_srkm)
-  - pixiv [Sorakumo](https://www.pixiv.net/users/21160166)
+  - Twitter [SD SkyKlouD](https://twitter.com/_SDSkyKlouD) / [Sorakumo](https://twitter.srkm.work)
+  - pixiv [Sorakumo](https://pixiv.srkm.work)
 
 Contact
 -------
